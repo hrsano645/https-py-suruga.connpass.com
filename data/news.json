@@ -1,9 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2021/06/29",
+            "date": "2021/06/30",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が20名確認されました"
+            "text": "新型コロナウイルス陽性者が34名確認されました"
+        },
+        {
+            "date": "2021/06/30",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-anzen_anshin_ninsyo_hozyo.html",
+            "text": "ふじのくに安全・安心認証（飲食店）制度促進事業費補助金の概要・申請手続きを掲載しました"
         },
         {
             "date": "2021/06/26",
