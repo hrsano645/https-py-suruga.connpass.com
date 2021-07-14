@@ -1,9 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2021/07/13",
+            "date": "2021/07/14",
+            "url": "https://www.youtube.com/watch?v=KkS6zpOjxXg",
+            "text": "Monica & Freind の「手洗いソング」を掲載しました"
+        },
+        {
+            "date": "2021/07/14",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が44名確認されました"
+            "text": "新型コロナウイルス陽性者が38名確認されました"
         },
         {
             "date": "2021/07/12",
