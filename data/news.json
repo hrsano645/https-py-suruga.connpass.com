@@ -1,13 +1,13 @@
 {
     "newsItems": [
         {
-            "date": "2021/07/20",
+            "date": "2021/07/21",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が42名確認されました"
+            "text": "新型コロナウイルス陽性者が55名確認されました"
         },
         {
-            "date": "2021/07/16",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "date": "2021/07/21",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html?mode=preview",
             "text": "現在の警戒レベルを更新しました"
         },
         {
