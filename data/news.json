@@ -1,9 +1,9 @@
 {
     "newsItems": [
         {
-            "date": "2021/08/11",
+            "date": "2021/08/12",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が263名確認されました"
+            "text": "新型コロナウイルス陽性者が326名確認されました"
         },
         {
             "date": "2021/08/10",
@@ -24,16 +24,6 @@
             "date": "2021/08/03",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
             "text": "川勝知事からのメッセージを更新しました"
-        },
-        {
-            "date": "2021/07/26",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-jitanyousei_shimoda.html",
-            "text": "下田市全域の飲食店に営業時間の短縮を要請しました"
-        },
-        {
-            "date": "2021/07/26",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-jitanyousei_numadu.html",
-            "text": "沼津市全域の飲食店に営業時間の短縮を要請しました"
         },
         {
             "date": "2021/07/14",
