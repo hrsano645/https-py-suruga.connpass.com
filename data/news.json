@@ -1,9 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2021/08/12",
+            "date": "2021/08/13",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が326名確認されました"
+            "text": "新型コロナウイルス陽性者が341名確認されました"
+        },
+        {
+            "date": "2021/08/13",
+            "url": "http://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の警戒レベルを更新しました"
+        },
+        {
+            "date": "2021/08/12",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
+            "text": "川勝知事からのメッセージを更新しました"
         },
         {
             "date": "2021/08/10",
@@ -12,18 +22,8 @@
         },
         {
             "date": "2021/08/06",
-            "url": "http://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の警戒レベルを更新しました"
-        },
-        {
-            "date": "2021/08/06",
             "url": "http://www.pref.shizuoka.jp/kinkyu/covid-19-manboh.html",
             "text": "まん延防止等重点措置に基づく営業時間の短縮等を要請しました"
-        },
-        {
-            "date": "2021/08/03",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
-            "text": "川勝知事からのメッセージを更新しました"
         },
         {
             "date": "2021/07/14",
