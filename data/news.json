@@ -1,6 +1,21 @@
 {
     "newsItems": [
         {
+            "date": "2021/09/10",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-kinkyuu2.html",
+            "text": "緊急事態措置の延長に伴う休業要請・営業時間の短縮要請の概要を掲載しました"
+        },
+        {
+            "date": "2021/09/10",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-kinkyujitai2.html",
+            "text": "緊急事態措置（延長）に係る静岡県の対応方針を掲載しました"
+        },
+        {
+            "date": "2021/09/10",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の警戒レベルを更新しました"
+        },
+        {
             "date": "2021/09/09",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
             "text": "新型コロナウイルス陽性者が195名確認されました（詳細判明分）"
@@ -11,11 +26,6 @@
             "text": "宿泊施設向け「ふじのくに安全・安心認証制度」「宿泊施設感染防止対策強化事業費補助金」の情報を掲載しました"
         },
         {
-            "date": "2021/09/03",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の警戒レベルを更新しました"
-        },
-        {
             "date": "2021/09/01",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manboh.html#kyouryokukinn",
             "text": "まん延防止等重点措置に係る協力金の申請受付を開始しました"
@@ -24,11 +34,6 @@
             "date": "2021/08/24",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
             "text": "川勝知事からのメッセージを更新しました"
-        },
-        {
-            "date": "2021/08/18",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-kinkyuu.html",
-            "text": "緊急事態措置に係る静岡県の対応方針を掲載しました"
         },
         {
             "date": "2021/08/16",
