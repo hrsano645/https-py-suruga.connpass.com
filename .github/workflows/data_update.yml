@@ -41,6 +41,7 @@ jobs:
           bash bat.sh
           mkdir data_dist
           cp *.json data_dist/
+          cp *.csv data_dist/
       - name: Upload jsonfiles
         uses: actions/upload-artifact@v1
         with:
