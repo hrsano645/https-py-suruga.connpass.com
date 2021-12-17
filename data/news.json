@@ -1,19 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2021/12/16",
+            "date": "2021/12/17",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が5名確認されました（詳細判明分）"
+            "text": "新型コロナウイルスの新たな陽性者は確認されませんでした"
+        },
+        {
+            "date": "2021/12/17",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2021/12/10",
             "url": "https://www.pref.shizuoka.jp/kousei/ko-420a/kansen/aftereffects/survey_citizens.html",
             "text": "新型コロナ後遺症調査に御協力ください"
-        },
-        {
-            "date": "2021/12/10",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2021/11/26",
