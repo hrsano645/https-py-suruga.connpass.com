@@ -1,7 +1,7 @@
 {
     "newsItems": [
         {
-            "date": "2021/12/31",
+            "date": "2022/01/01",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
             "text": "新型コロナウイルス陽性者が3名確認されました（詳細判明分）"
         },
@@ -14,11 +14,6 @@
             "date": "2021/12/24",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
             "text": "現在の国評価レベルを更新しました"
-        },
-        {
-            "date": "2021/12/21",
-            "url": "https://www.pref.shizuoka.jp/sangyou/sa-550/chushokigyotoouenkin.html",
-            "text": "中小企業等応援金の申請期限は【令和3年12月28日(火曜日)】までです！"
         },
         {
             "date": "2021/12/10",
