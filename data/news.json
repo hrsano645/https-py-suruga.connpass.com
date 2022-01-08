@@ -1,14 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2022/01/07",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の国評価レベルを更新しました"
+            "date": "2022/01/08",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
+            "text": "新型コロナウイルス陽性者が127名確認されました（詳細判明分）"
         },
         {
             "date": "2022/01/07",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が76名確認されました（詳細判明分）"
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2021/12/27",
