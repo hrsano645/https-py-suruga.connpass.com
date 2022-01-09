@@ -6,7 +6,7 @@ on:
       - master
   workflow_run:
     workflows:
-      - "development deploy"
+      - "OGP Builder"
     types:
       - completed
 
