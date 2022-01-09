@@ -6,7 +6,7 @@ on:
       - master
   workflow_run:
     workflows:
-      - "datajson update"
+      - "production deploy"
     types:
       - completed
 
@@ -67,7 +67,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add static
-          git commit -m "Add changes"
+          git commit -m "Add changes" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
