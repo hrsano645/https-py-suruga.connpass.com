@@ -19,9 +19,9 @@ jobs:
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
       - name: debug:check branch name / env list
-        - run: | 
-              echo '${{ toJson(github) }}'
-              env
+        run: | 
+          echo '${{ toJson(github) }}'
+          env
       - uses: actions/checkout@v2
         with:
           ref: ${{ steps.extract_branch.outputs.branch }}
