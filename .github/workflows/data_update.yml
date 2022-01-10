@@ -40,6 +40,8 @@ jobs:
         run: |
           bash bat.sh
           mkdir data_dist
+          touch updated_time.csv
+          echo `date` > updated_time.csv
           cp *.json data_dist/
           cp *.csv data_dist/
       - name: Upload jsonfiles
