@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - master
+  workflow_run:
+    workflows:
+      - "datajson update"
+    types:
+      - completed
 
 jobs:
   build:
@@ -13,6 +18,10 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
+      - name: debug:check branch name / env list
+        run: | 
+          echo '${{ toJson(github) }}'
+          env
       - uses: actions/checkout@v2
         with:
           ref: ${{ steps.extract_branch.outputs.branch }}
@@ -62,7 +71,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add static
-          git commit -m "Add changes"
+          git commit -m "Add changes" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
