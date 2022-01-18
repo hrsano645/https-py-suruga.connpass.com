@@ -40,6 +40,7 @@ jobs:
         run: |
           bash bat.sh
           mkdir data_dist
+          echo "add debug file:"
           touch updated_time.csv
           echo `date` > updated_time.csv
           cp *.json data_dist/
