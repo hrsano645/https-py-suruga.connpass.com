@@ -1,24 +1,24 @@
 {
     "newsItems": [
         {
+            "date": "2022/01/19",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
+            "text": "川勝知事からのメッセージを更新しました"
+        },
+        {
             "date": "2022/01/18",
             "url": "https://www.pref.shizuoka.jp/kinkyu/keikai_yobikake.html",
             "text": "オミクロン株感染拡大への厳重な警戒をお願いします"
         },
         {
-            "date": "2022/01/18",
+            "date": "2022/01/19",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が571名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が840名確認されました（詳細判明分）"
         },
         {
             "date": "2022/01/14",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
             "text": "現在の国評価レベルを更新しました"
-        },
-        {
-            "date": "2022/01/11",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
-            "text": "川勝知事からのメッセージを更新しました"
         },
         {
             "date": "2021/12/10",
