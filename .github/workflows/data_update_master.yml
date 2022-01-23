@@ -1,8 +1,5 @@
 name: datajson production update
 
-# TODO:2022-01-21 データの生成とpushを別のworkflowで行う。データ生成のartifactは別のワークフローへ持っていけるかチェックする（ダメなら毎回生成しなおすでヨシ
-
-
 on:
   workflow_dispatch:
   schedule:
