@@ -7,13 +7,18 @@
         },
         {
             "date": "2022/01/26",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が1322名確認されました（詳細判明分）"
-        },
-        {
-            "date": "2022/01/20",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
             "text": "川勝知事からのメッセージを更新しました"
+        },
+        {
+            "date": "2022/01/26",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manenboushi2.html",
+            "text": "まん延防止等重点措置に係る静岡県の対応方針を決定しました"
+        },
+        {
+            "date": "2022/01/27",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
+            "text": "新型コロナウイルス陽性者が1498名確認されました（詳細判明分）"
         },
         {
             "date": "2022/01/20",
