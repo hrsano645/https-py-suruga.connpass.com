@@ -1,12 +1,9 @@
 name: development deploy
 
 on:
-  push:
-    branches:
-      - development
   workflow_run:
     workflows:
-      - "datajson update"
+      - "OGP Builder development"
     types:
       - completed
 
