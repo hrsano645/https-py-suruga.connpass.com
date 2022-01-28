@@ -1,12 +1,9 @@
 name: development deploy
 
 on:
-  # push:
-  #   branches:
-  #     - development
   workflow_run:
     workflows:
-      - "OGP Builder"
+      - "OGP Builder development"
     types:
       - completed
 
