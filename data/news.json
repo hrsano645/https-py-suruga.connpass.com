@@ -1,9 +1,9 @@
 {
     "newsItems": [
         {
-            "date": "2022/01/30",
+            "date": "2022/01/31",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が1280名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が751名確認されました（詳細判明分）"
         },
         {
             "date": "2022/01/26",
@@ -34,21 +34,6 @@
             "date": "2021/12/10",
             "url": "https://www.pref.shizuoka.jp/kousei/ko-420a/kansen/aftereffects/survey_citizens.html",
             "text": "新型コロナ後遺症調査に御協力ください"
-        },
-        {
-            "date": "2021/11/26",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-kinkyujitai2.html",
-            "text": "静岡県実施方針及び政府基本的対処方針を踏まえた当面の対応を決定しました"
-        },
-        {
-            "date": "2021/09/07",
-            "url": "https://fujinokuni-yado.com/entry/",
-            "text": "宿泊施設向け「ふじのくに安全・安心認証制度」「宿泊施設感染防止対策強化事業費補助金」の情報を掲載しました"
-        },
-        {
-            "date": "2021/08/16",
-            "url": "https://www.pref.shizuoka.jp/sangyou/sa-550/chushokigyotoouenkin.html",
-            "text": "中小企業等応援金の概要を掲載しました"
         }
     ]
 }
