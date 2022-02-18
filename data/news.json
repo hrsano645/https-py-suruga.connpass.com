@@ -1,9 +1,24 @@
 {
     "newsItems": [
         {
-            "date": "2022/02/16",
+            "date": "2022/02/18",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manenboushi2_2.html",
+            "text": "まん延防止等重点措置に係る静岡県の対応方針を変更しました"
+        },
+        {
+            "date": "2022/02/18",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manboh2_2.html",
+            "text": "まん延防止等重点措置に基づく営業時間の短縮要請の期間を延長しました"
+        },
+        {
+            "date": "2022/02/18",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の国評価レベルを更新しました"
+        },
+        {
+            "date": "2022/02/18",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が1,510名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が1,924名確認されました（詳細判明分）"
         },
         {
             "date": "2022/02/14",
@@ -11,19 +26,9 @@
             "text": "川勝知事からのメッセージを更新しました"
         },
         {
-            "date": "2022/02/10",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の国評価レベルを更新しました"
-        },
-        {
             "date": "2022/02/09",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manboh2.html#manboh2_kyoryokukin",
-            "text": "まん延防止等重点措置に伴う協力金の申請要項等を掲載しました"
-        },
-        {
-            "date": "2022/01/26",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manenboushi2.html",
-            "text": "まん延防止等重点措置に係る静岡県の対応方針を決定しました"
+            "text": "まん延防止等重点措置（1/27～2/20）に伴う協力金の申請要項等を掲載しました"
         },
         {
             "date": "2022/01/20",
