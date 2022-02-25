@@ -1,9 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2022/02/24",
+            "date": "2022/02/25",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が1,349名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が1,642名確認されました（詳細判明分）"
+        },
+        {
+            "date": "2022/02/25",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2022/02/24",
@@ -24,11 +29,6 @@
             "date": "2022/02/18",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manboh2_2.html",
             "text": "まん延防止等重点措置に基づく営業時間の短縮要請の期間を延長しました"
-        },
-        {
-            "date": "2022/02/18",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2022/02/09",
