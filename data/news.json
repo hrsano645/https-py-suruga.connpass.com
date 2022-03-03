@@ -1,9 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2022/03/02",
+            "date": "2022/03/03",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
+            "text": "川勝知事からのメッセージを更新しました"
+        },
+        {
+            "date": "2022/03/03",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が1,365名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が1,557名確認されました（詳細判明分）"
         },
         {
             "date": "2022/02/25",
@@ -14,11 +19,6 @@
             "date": "2022/02/24",
             "url": "https://www.pref.shizuoka.jp/kousei/ko-420a/kansen/aftereffects/medical_institution.html",
             "text": "新型コロナの罹患後症状（後遺症）を診療可能な医療機関一覧を掲載しました"
-        },
-        {
-            "date": "2022/02/22",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tijikomennto.html",
-            "text": "川勝知事からのメッセージを更新しました"
         },
         {
             "date": "2022/02/18",
