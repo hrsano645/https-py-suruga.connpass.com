@@ -1,9 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2022/03/10",
+            "date": "2022/03/11",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の国評価レベルを更新しました"
+        },
+        {
+            "date": "2022/03/11",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が1,328名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が1,270名確認されました（詳細判明分）"
         },
         {
             "date": "2022/03/04",
@@ -14,11 +19,6 @@
             "date": "2022/03/04",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-manenboushi2_3.html",
             "text": "まん延防止等重点措置に係る静岡県の対応方針を変更しました"
-        },
-        {
-            "date": "2022/03/04",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2022/03/03",
