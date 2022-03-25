@@ -1,19 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2022/03/24",
+            "date": "2022/03/25",
+            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
+            "text": "現在の国評価レベルを更新しました"
+        },
+        {
+            "date": "2022/03/25",
             "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-tyuumokujouhou.html",
-            "text": "新型コロナウイルス陽性者が963名確認されました（詳細判明分）"
+            "text": "新型コロナウイルス陽性者が999名確認されました（詳細判明分）"
         },
         {
             "date": "2022/03/18",
             "url": "https://fujinokuni-ninsho.jp/",
             "text": "ふじのくに安全・安心認証制度事務局を装う不審なメールに御注意ください（認証制度のページを御確認ください）"
-        },
-        {
-            "date": "2022/03/18",
-            "url": "https://www.pref.shizuoka.jp/kinkyu/covid-19-keikailevel.html",
-            "text": "現在の国評価レベルを更新しました"
         },
         {
             "date": "2022/03/16",
